@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hearty acknowledgement, and humble advertizement for the vindicating of the law of nature, reason, and iustice Presented by the defrauded and distressed creditors, and the poore and oppressed prisoners, to the supreme authority of the Common-wealth, the Parliament of England. Also an essay: whereby to manifest the concealed estates of able debtors, and fraudulent settlements; by which evill practices many widowes, orphans, and other honest people of this nation, have been, and are daily deprived of their whole livelihoods, a-</title>
+            <author>Draper, Robert, fl. 1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36521</idno>
+            <idno type="STC">Wing D2138A</idno>
+            <idno type="STC">ESTC R216358</idno>
+            <idno type="EEBO-CITATION">99828090</idno>
+            <idno type="PROQUEST">99828090</idno>
+            <idno type="VID">32517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32517)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1946:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hearty acknowledgement, and humble advertizement for the vindicating of the law of nature, reason, and iustice Presented by the defrauded and distressed creditors, and the poore and oppressed prisoners, to the supreme authority of the Common-wealth, the Parliament of England. Also an essay: whereby to manifest the concealed estates of able debtors, and fraudulent settlements; by which evill practices many widowes, orphans, and other honest people of this nation, have been, and are daily deprived of their whole livelihoods, a-</title>
+                  <author>Draper, Robert, fl. 1659.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, MDC.LIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: This is the prayer of Ro. D. [i.e. Robert Draper] and many thousands injured creditors, and oppressed prisoners.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32517:1"/>
+            <pb facs="tcp:32517:1" rendition="simple:additions"/>
+            <p> An Hearty Acknowledgement, and humble Advertizement for the vindica<g ref="char:EOLhyphen"/>ting of the Law of <hi>Nature, Reaſon,</hi> and <hi>Iuſtice.</hi>
+            </p>
+            <p>PRESENTED By the Defrauded and Diſtreſsed <hi>Creditors,</hi> and the poore and oppreſſed <hi>Priſoners,</hi> To the Supreme Authority of the Common-wealth, the PARLIAMENT of ENGLAND.</p>
+            <q>Qui monet ut facias, quod jam facis, &amp;c.</q>
+            <p>Alſo an ESSAY: Whereby to make manifeſt the Concealed Eſtates of able <hi>Debtors,</hi> and fraudulent <hi>Settlements;</hi> By which evill Practices many Widowes, Orphans, and other honeſt People of this Nation, have been, and are daily Deprived of their whole Livelihoods, <hi>a</hi>—</p>
+            <q>Quicquid ſub terrà eſt, in appricum proferet Aetas.</q>
+            <p>Printed, MDC. LIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32517:2"/>
+            <pb facs="tcp:32517:2"/>
+            <opener>
+               <salute>RIGHT HONOVRABLE:</salute>
+            </opener>
+            <p>THis preſent PARLIAMENT ſeemeth (like to <hi>Moſes</hi> in his minority) to have been preſer<g ref="char:EOLhyphen"/>ved in your fraile and flaggie Arkes of fleſh, amidſt the perilous and uncertaine waves of the late Governments for the vindicating our Eng<g ref="char:EOLhyphen"/>liſh Iſrael from its (more then Aegyptian) bondage, <hi>(i. e.)</hi> The tyrannie of the practice of the <hi>Common Law</hi> in theſe later times. It is the hope, and prayer of ma<g ref="char:EOLhyphen"/>ny thouſands, that yee may Imitate <hi>Moſes</hi> (in the growth of your ſtrength) in thoſe two moſt remark<g ref="char:EOLhyphen"/>able Acts of his; Firſt, in ſmiting the Aegyptian, the man of Sinne; (the cruelty, and iniquity of the pra<g ref="char:EOLhyphen"/>ctice of the Lawes) that hee dye.</p>
+            <p>Secondly, in compoſing Differences between bre<g ref="char:EOLhyphen"/>thren; albeit yee may (ptobably) expect but an evill Requitall from one (the moſt Injurious) of them, as <hi>Moſes</hi> had, who made the Ruler over us? In order hereunto it is the humble Requeſt of many defrauded and extreamly diſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſſed Creditors and others, who have long, and now doe ſue (in vaine) in <hi>Formâ pau<g ref="char:EOLhyphen"/>peris,</hi> and of all poore, and oppreſſed Priſoners, that they may bee ſpeedily and abſolutely relieved againſt all frauds and oppreſſions. It is knowne to all men, that the <hi>Norman</hi> yoke (contrary to the manner of o<g ref="char:EOLhyphen"/>ther yokes) is growne much rougher, and heavier by wearing; but now the Cauſe (the <hi>Norman</hi> Monar<g ref="char:EOLhyphen"/>chy) being taken away; The effect (the Cruelty of thoſe Lawes) ought to ceaſe. In reſpect to the Pre<g ref="char:EOLhyphen"/>miſſes, and for the preſervation and juſt rights of my
+<pb facs="tcp:32517:3"/> Countrimen of <hi>England;</hi> I am bold to preſent unto your Honours theſe Conſiderations following:</p>
+            <p n="1">1. That Bils of <hi>Middleſex,</hi> &amp;c. carry more Cru<g ref="char:EOLhyphen"/>elty and leſſe Conſcience with them, then the <hi>Spaniſh</hi> Inquiſition.</p>
+            <p n="2">2. That none are Impriſoned (really) in <hi>England,</hi> but ſuch as ought not to be, <hi>i. e.</hi> the poorer ſort, who are utterly unable to pay; whereas thoſe who are ſol<g ref="char:EOLhyphen"/>vent, can give ſecurity to the Gaolors, and with their Silver key, paſſe when, and whither they pleaſe. And that by theſe meanes the Priſons for Debt, are Sanc<g ref="char:EOLhyphen"/>tuaries for Knaves, Purgatories for Chriſtians, ware<g ref="char:EOLhyphen"/>houſes, and Shops for the Lawyers, and their mini<g ref="char:EOLhyphen"/>ſters, Bayliffes, &amp;c. and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aolors (all the worſt of men) and Slaughter-houſes for the Divell.</p>
+            <p n="3">3. That thoſe who have moſt need of Iuſtice, and are moſt injured, (the <hi>paupers)</hi> ſeldome, or never ob<g ref="char:EOLhyphen"/>taine any Iuſtice, or Equity; it being as impoſſible to promove a Suit either in the <hi>Common Law,</hi> or <hi>Chancery</hi> with a <hi>paupers</hi> purſe, as to move a Mountaine with a Childs or Sick mans ſtrength.</p>
+            <p n="4">4. That it will be impoſſible to adminiſter relief, or Iuſtice to thoſe Indigent perſons; unleſſe Intayl'd eſtates, but moſt eſpecially fraudulent Settlements of eſtates in Marriages (or otherwiſe) be queſtioned, and examined in their behalfe, and as there ſhall appeare Cauſe, be rendered reſponſible. It being Incumbent on all Supreme Courts of Indicature to grant Reliefe againſt ſuch Frauds, which neither could be prevented by Law, nor can bee relieved by the ordinary rules of Equity. And that it may be conſidered, that all Set<g ref="char:EOLhyphen"/>tlements of Eſtates either before, or after the Debt contracted (being <hi>eodem animo fallendi,</hi> with the ſame purpoſe of deceiving) are equally fraudulent; the bor<g ref="char:EOLhyphen"/>rower
+<pb facs="tcp:32517:3"/> well knowing, that by a private ſettlement of his whole eſtate, he had made himſelf irreſponſible, which the Lender could not know; but conceived that him<g ref="char:EOLhyphen"/>ſelf and Heire being obliged by bond ſhould have both been lyable to give ſatisfaction with the eſtate, which belonged unto the Borrower.</p>
+            <p n="5">5. That the firſt Inſtitution of Intailes was in <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea.</hi> the 1. his Reigne, on purpoſe to keepe the <hi>Normans</hi> a<g ref="char:EOLhyphen"/>bout him, who were ſelling their Eſtates in <hi>England,</hi> and returning into <hi>Normandy;</hi> but this afterwards was derived to the Nobility, and Gentry of this Nation; which (however) is not like to the Lawes of the <hi>Medes</hi> and <hi>Perſians,</hi> unalterable, for we find that there is no Intaile whatſoever, but is, or may be, cut off by Levi<g ref="char:EOLhyphen"/>ing a Fine, or by Act of Parliament, to ſerve the turnes of the owners; and why this ought not to be done to ſatisfie Common Iuſtice, no good reaſon (as I con<g ref="char:EOLhyphen"/>ceive, under favour) can be given; what is pretended, for the preſerving of families; It may be alledged by ma<g ref="char:EOLhyphen"/>ny Creditors that by the preſerving of one Family (which is often alſo deſtroyed with Pride, Riot, and Luxury) ten others, and ſome of them, of as good, or better quality then the other, may bee, and often are ruined. That all Intail'd eſtates of Debtors by the free and full execution of the Lawes are totally lyable to the ſatisfaction of Debts during the Life of the deb<g ref="char:EOLhyphen"/>tor; whereby the Wife, and Children are, or may be re<g ref="char:EOLhyphen"/>duced to extreame want, and miſery; whereas by the ſelling of thoſe Eſtates all parties m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y be relieved and preſerved. So that an Act to this purpoſe will appear rather an amicable, &amp; conſcientious Compoſition, and preſervation on all parts, then any way injurious; when on the contrary, the Debtors eſtate being exten<g ref="char:EOLhyphen"/>ded during his life, the Wife and Children doe moſt
+<pb facs="tcp:32517:4"/> unnaturally and unchriſtianlike expect, if not deſire o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contrive the untimely death of Husband, and Parent, and many times all periſh by an irrationall &amp; ungodly obſtinacy, as many Inſtances in this kind may be given.</p>
+            <div type="part">
+               <head>For the Diſcovery of able Debtors Concealed Eſtates.</head>
+               <p n="6">6. That all Maſters of Priſons (eſpecially of the <hi>
+                     <g ref="char:V">Ʋ</g>pper-Bench)</hi> deliver in the names of thoſe Securities, which they have received for thoſe Priſoners who lye in the Rules, and goe at large, or ſleightly guarded. And that thoſe who are Security for ſuch Priſoners, may alſo deliver in the Names of the collaterall Se<g ref="char:EOLhyphen"/>curities from the Priſoners to ſave themſelves harm<g ref="char:EOLhyphen"/>leſſe, and likewiſe that all ſuch perſons, who ſhall be ſuſpected by the Creditors to have any of the Deb<g ref="char:EOLhyphen"/>tors eſtates intruſted with them, may be ſtrictly exa<g ref="char:EOLhyphen"/>mined to that purpoſe. And all this to be done upon Oath, or a full Declaration, and atteſtation of the pre<g ref="char:EOLhyphen"/>miſſes under their hand writings witneſſed; and that the falſifying either of Oath or hand in this kind may be puniſhable as Felony. The detaining of any mans eſtate after the time of the Creditor or owners Con<g ref="char:EOLhyphen"/>ſent is expired, being of the ſame nature, and detri<g ref="char:EOLhyphen"/>ment to the party injured, as the taking the ſame from him by ſtealth or force: And that Frauds, and wil<g ref="char:EOLhyphen"/>full-unjuſt dealing in this kind deſerve a more ſevere puniſhment, then other Thefts or Robberies.</p>
+               <p>Theſe being committed for the moſt part by reaſon of extreame want, and for ſelfe-preſervation; the o<g ref="char:EOLhyphen"/>ther to ſatisfie unſatiable Luſts, or unbounded Ava<g ref="char:EOLhyphen"/>rice, being moſt wickedly ambitious thereby to raiſe or preſerve their owne Families by the Ruine of o<g ref="char:EOLhyphen"/>thers for the moſt part much better in all reſpects then
+<pb n="5" facs="tcp:32517:4" rendition="simple:additions"/> themſelves or theirs. And laſtly, how contrary theſe practiſes are to the right Rule of Reaſon, and Iuſtice, the nature, and well being of the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Man<g ref="char:EOLhyphen"/>kind; and the Teſt of a good Conſcience; It is left to all rationall and unbyaſſed men, and all upright and conſcientious Chriſtians to judge.</p>
+               <p>The very Heathen, who were guided only by the in<g ref="char:EOLhyphen"/>ſtinct of Nature and precepts of Morality, were very ſeldome or never peccant herein, but held it alwaies as a thing ſacred, and abſolutely neceſſary, <hi>Suum cuique tribuere.</hi>—
+<q>Fiat Iuſtitia Ruat (imo magis floriat) Parliamentum.</q>
+               </p>
+               <p>It will appeare, that by the performance of this Iu<g ref="char:EOLhyphen"/>ſtice and Charity, yee will not only render your ſelves acceptable to God, your owne Conſciences and all good men, but ſhall alſo have the hearts, hands, and e<g ref="char:EOLhyphen"/>ſtates of many thouſands ready to maintaine all your Honourable, and pious Atchievements.</p>
+               <p>THe humble addreſs of a Gentleman of good birth and education, who being by fraud (and this by a few perſons whoſe eſtates may be rightly eſtimated at more then 100000. pounds) bereaved of an eſtate of 20000. l. value at the leaſt, and for want of Money be<g ref="char:EOLhyphen"/>ing utterly diſabled to vindicate his rights by Law or Equity, hath been alſo twice wrongfully and miſera<g ref="char:EOLhyphen"/>bly Impriſoned by the deſigne of ſome of his owne Debtors and neare Relations, who have been formerly much obliged by him; and is now hourely in danger to be drag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Priſon ag<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n by the Agents of the ſame perſons, and is alſo for the preſent totally deſtitute of any meanes to preſerve his life being more then 58. yeares aged, or to recover any part of his Eſtate.</p>
+               <pb n="6" facs="tcp:32517:5" rendition="simple:additions"/>
+               <p> By theſe meanes like a Bird (whoſe wings are clip't) he lies proſtrate and panting at your Honours feet; ſubmiſſively craving your protection for bread, breath and liberty, &amp;c.</p>
+               <lg>
+                  <l>A verſe may take thoſe, who a Sermon fly,</l>
+                  <l>
+                     <hi>So godly, and the learned</hi> Herbert; <hi>I</hi>
+                  </l>
+                  <l>Hope from your pious Ingenuitie.</l>
+               </lg>
+               <lg>
+                  <l>PRinces pretended wants extort great ſummes</l>
+                  <l>From Subjects; theſe (true-Beggers) aske but Crums</l>
+                  <l>From Kings; ſuch Loanes, or Guifts, they are</l>
+                  <l>As the moſt home bred-Charity may ſpare.</l>
+                  <l>And that with ſafety too, Heaven will be bound,</l>
+                  <l>When no Security with Man is found:</l>
+                  <l>If that's not lik't; yee Land-Lords of our Earth</l>
+                  <l>May make your owne Conditions; grant new Birth</l>
+                  <l>Of Iuſtice in our Lawes, and Conſcience true,</l>
+                  <l>Lend a Million, yee'le be paid your due</l>
+                  <l>With Intereſt of Thankes, and Honour; Then</l>
+                  <l>Your Faces will ſhine bright fore God, and men.</l>
+                  <l>A Brightneſſe farre beyond thoſe glitt'ring Roofes,</l>
+                  <l>Coaches, and Tombes; ah; Theſe are ſmall Behoofes.</l>
+                  <l>When Kings ſhall once againe be turn'd to Clay.</l>
+                  <l>And ſilly-Folkes enquire where now are They?</l>
+                  <l>Well-poliſht vertue ſurvives Marble; and</l>
+                  <l>Conſcience, and Truth (like Rockes of Diamonds) ſtand</l>
+                  <l>Faire, and unblemiſht to Eternity.</l>
+                  <l>When all things elſe decay; Theſe never Dye.</l>
+                  <l>So ſhall your Names inrol'd i'th booke of Life.</l>
+                  <l>Live ever free from Change, and void of ſtrife.</l>
+               </lg>
+               <closer>This is the Prayer of
+<signed>
+                     <hi>Ro. D.</hi> and many thouſands injured Creditors, and oppreſſed Priſoners.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
